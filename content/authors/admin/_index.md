@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dashan
 
 # Username (this should match the folder name)
 authors:
-- admin
+- yaodashan
 
 # Is this the primary user of the site?
 superuser: true
